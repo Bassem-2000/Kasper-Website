@@ -1201,7 +1201,7 @@ header .container nav i.toggle {
 }
 
 .contact .content form input[type='submit'] {
-    border: var(--main-color) solid;
+    border: var(--main-color) solid 2px;
     background-color: var(--main-color);
     padding: 20px 30px;
     color: white;
